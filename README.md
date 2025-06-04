@@ -40,7 +40,7 @@ Toujours curieux, toujours en train d’apprendre. Mon objectif : devenir un exc
 ## ✉️ Me contacter
 
 - 📫 Email : *[sc.arthur.wang@gmail.com]*  
-- 💼 LinkedIn : [Linkedin]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/arthur-wang-soc/))
+- 💼 LinkedIn : [Linkedin]([https://www.linkedin.com/in/arthur-wang-soc/])
 
 ---
 

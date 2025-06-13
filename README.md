@@ -21,7 +21,7 @@ Curious by nature, always learning. My goal: become a top-tier DevOps engineer.
 
 ## 📂 Featured Project
 
-### 🧠 [`devops-monitoring-infra`](https://github.com/Picicato/devops-monitoring-infra)  
+### 🧠 [`monitoring-infrastructure-on-aws`](https://github.com/Picicato/monitoring-infrastructure-on-aws)  
 > End-to-end cloud monitoring infrastructure deployed on AWS using Terraform & Ansible.  
 > Stack includes Prometheus, Node Exporter, Grafana, and Loki.
 
